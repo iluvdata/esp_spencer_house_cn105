@@ -14,7 +14,7 @@ jobs:
     with:
       #### Modify below here to match your project ####
       files: |
-        spencer_house_cn105-s3.factory.yaml
+        spencer_house_cn105-esp32-s3.factory.yaml
       esphome-version: 2026.7.4
       # combined-name: esp_spencer_house_cn105
       #### Modify above here to match your project ####
